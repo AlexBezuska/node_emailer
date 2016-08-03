@@ -1,0 +1,15 @@
+{
+  "name": "wz_security_mailer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Bezuska",
+  "license": "ISC",
+  "dependencies": {
+    "email": "^0.2.6",
+    "nodemailer": "^2.5.0"
+  }
+}
